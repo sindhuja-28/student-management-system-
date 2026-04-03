@@ -80,6 +80,9 @@ Run the project on server
 
 <img width="504" height="328" alt="Screenshot 2026-04-03 131707" src="https://github.com/user-attachments/assets/f5f03a1b-2277-4672-8126-baaae596a4b9" />
 
+<img width="688" height="479" alt="Screenshot 2026-04-03 131720" src="https://github.com/user-attachments/assets/f0a9da93-c211-4a89-840f-413d3b159fed" />
+
+<img width="1916" height="968" alt="Screenshot 2026-04-03 131831" src="https://github.com/user-attachments/assets/0a5f6c43-c76e-4330-94b2-fcccbe0fabef" />
 
 💡 Future Enhancements
 
